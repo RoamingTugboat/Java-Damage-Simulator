@@ -1,0 +1,16 @@
+//stats taken from scripts/items/items_game.txt, look for weapon_m4a1_silencer_prefab
+MaxPlayerSpeed		225
+WeaponType			rifle
+WeaponPrice			2900
+WeaponArmorRatio	1.40
+Team				ANY
+Penetration			2
+Damage				33
+Range				8192
+RangeModifier		0.990000
+Bullets				1
+CycleTime			0.09
+RecoveryTimeStand   0.423676
+RecoveryTimeCrouch	0.302625
+KillAward			300
+clip_size			20

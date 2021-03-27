@@ -1,0 +1,16 @@
+//stats are same as weapon_hkp2000
+MaxPlayerSpeed		240
+WeaponType			pistol
+WeaponPrice			200
+WeaponArmorRatio	1.01
+Team				CT
+Penetration			1
+Damage				35
+Range				4096
+RangeModifier		0.91
+Bullets				1
+CycleTime			0.17
+RecoveryTimeCrouch  0.29
+RecoveryTimeStand   0.35
+KillAward 			150
+clip_size			12

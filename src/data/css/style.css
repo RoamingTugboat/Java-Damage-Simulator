@@ -1,0 +1,38 @@
+HitboxLabel {
+    -fx-font-size: 18pt;
+    -fx-font-family: "Tahoma";
+    -fx-font-weight: bold;
+    -fx-text-fill: #FFFFFF;
+}
+
+
+HeadlineLabel {
+    -fx-font-size: 22pt;
+    -fx-font-family: "Tahoma";
+    -fx-font-weight: bold;
+    -fx-text-fill: #FFFFFF;
+}
+
+AttributeLabel {
+    -fx-font-size: 13pt;
+    -fx-font-family: "Tahoma";
+    -fx-font-weight: bold;
+    -fx-text-fill: #F6F6F6;
+}
+
+Label {
+    -fx-font-size: 13pt;
+    -fx-font-family: "Tahoma";
+    -fx-font-weight: bold;
+    -fx-text-fill: #D5D5D5;
+}
+
+
+
+HelperLabel {
+    -fx-font-size: 12pt;
+    -fx-font-family: "Tahoma";
+    -fx-font-weight: bold;
+    -fx-text-fill: #E0E0E0;
+}
+
